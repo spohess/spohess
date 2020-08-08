@@ -7,5 +7,3 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spohess&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
