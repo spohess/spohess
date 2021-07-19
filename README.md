@@ -1,4 +1,4 @@
-<img src="https://spohess.com.br/img/cover.png" />
+<!--img src="https://spohess.com.br/img/cover.png" /-->
 <h1 align='center'>
   E ae... tha's me :point_down:
 </h1>
