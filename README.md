@@ -20,7 +20,7 @@
 ### ⚙️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,bash,linux,git,github,docker,html,css,js,vue,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,bash,linux,git,github,docker,html,css,js,mysql,postgres" />
 </p>
 
 ---
@@ -50,5 +50,5 @@
 ---
 
 <p align="center">
-  <sub>💬 README gerado com criatividade e café ☕</sub>
+  <sub>💬 README gerado com criatividade e café ☕ (Pela IA obviamente!)</sub>
 </p>
